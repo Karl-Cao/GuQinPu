@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="xian">
+        <item>一弦</item>
+        <item>二弦</item>
+        <item>三弦</item>
+        <item>四弦</item>
+        <item>五弦</item>
+        <item>六弦</item>
+        <item>七弦</item>
+    </string-array>
+</resources>
